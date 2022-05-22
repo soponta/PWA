@@ -1,0 +1,23 @@
+{
+    "name": "Catalog Kita",
+    "short_name": "Catalog",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlHF3J3xoZMjqM4SGgRtlvu_pkDsesLuty1SIX-1v1wELLarLEZ_oxKrtnKlaycFEqxz63fWtN4NcDMs8FoT8DF0V0Z3wUxaGvdIxXdAbJp3OmzdKLcLfQsVpvmC1jBHwjYMiWA_IDjxHdk9cd3e3PruQCgwudFZ54eHbTH5np7MxHjgPpZNlt8ovFw/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwQWsuJk3RvsRRO7a7F62N9Aqs-GVMOVGOyDQd8njtUfbfsOy-9tu9liV-XYD_uMv1TXUmxdHfKB6IBF6W7fi3BntJklmk4Afj5BiJaej11WUwWAgoIgx94PlY-iApbiljJZ6vXwH2G19RV3xJWTgSQK-FrmK91b_zM1g3TshGqLoSxmCQWGGs4VdKDg/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://cataloguest.blogspot.com/"
+}
